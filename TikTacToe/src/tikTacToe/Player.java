@@ -1,12 +1,8 @@
 package tikTacToe;
+
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * This class describe a Player Object
- * @author matthewespinoza
- *
- */
 
 public class Player {
 	
